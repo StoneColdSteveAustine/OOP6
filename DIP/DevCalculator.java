@@ -1,4 +1,4 @@
-package DevInversionPrinciple;
+package DIP;
 
 import java.util.List;
 
